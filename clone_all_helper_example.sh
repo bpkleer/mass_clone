@@ -17,8 +17,8 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="Organization"
-	username="username"
+	organization="dataprojects-jluifp-master"
+	username="bpkleer"
 	protocol="ssh"
 
 	./clone_all.sh ${organization} ${assignment} ${username} ${protocol}
